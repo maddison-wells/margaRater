@@ -1,0 +1,12 @@
+@font-face {
+  font-family: "CustomLLDE";
+  src: local("CustomLLDE"),
+    url("../../Fonts/Las locuras del emperador.TTF") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+.home {
+  font-family: "CustomLLDE", sans-serif;
+  font-size: 60px;
+}
